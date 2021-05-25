@@ -1,6 +1,7 @@
 # ividalsos_PRA2.github.io
 A9: Creación de la visualización y entrega del proyecto (Práctica) - Inés Vidal Sospedra
 .
+
 URL: https://public.tableau.com/profile/in.s.vidal.sospedra#!/vizhome/PRA2_ividalsos/Inicio 
 
 El proyecto incluye la creación de una vista simple para ver los indicadores relacionados con los acuerdos de paz implementados en todo el mundo en los últimos 30 años 
